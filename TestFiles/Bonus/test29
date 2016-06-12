@@ -1,0 +1,6 @@
+  A => E | D | C
+  C => K + M + L + O
+  
+  !C => F + G
+  ?EDFCGKMLO
+  =A

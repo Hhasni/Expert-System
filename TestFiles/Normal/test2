@@ -1,0 +1,7 @@
+A + B => C 
+C + E => F + G + H + Y + H + Y + H
+A => B
+
+?ABCEFGHY
+
+=AE
